@@ -1,1 +1,2 @@
 # SE-LAB-ASSIGNMENT-2
+Software Engineering is a discipline that involves the systematic application of engineering principles, methods, and tools to the design, development, operation, and maintenance of software systems. It encompasses a wide range of activities, from requirements gathering and analysis to testing and deployment, with the goal of producing high-quality software that meets user needs and is reliable, scalable, and maintainable.
